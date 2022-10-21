@@ -41,7 +41,7 @@
 
 ## Future
 
-Check out the [roadmap](https://github.com/vishnuraghavb/EnBizCard/projects/1) to see the upcoming features of Digital Business Card Generator.
+Check out the [roadmap](https://github.com/Morrsvps/EnBizCard/projects/1) to see the upcoming features of Digital Business Card Generator.
 
 Your feedback and suggestions are very important. If you have an idea to improve Digital Business Card Generator, [do let me know](#having-issues-suggestions-and-feedback). I'm always open to ideas ;)
 
